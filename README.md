@@ -99,4 +99,3 @@ I'm a **Bachelor of Computer Science** student at **FAST NUCES, Peshawar**, pass
 
 ---
 
-*This README was created as part of my Week 1 GitHub task - pushed via terminal workflow* 🚀
